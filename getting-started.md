@@ -34,7 +34,7 @@ Let's go through this to set up your repo:
 
 ## Advanced Features
 
-- [ ] You can create [[note-templates]] for things like book reviews, people, daily notes (coming soon), and more!
+- [ ] You can create [note-templates](docs/features/note-templates.md) for things like book reviews, people, daily notes (coming soon), and more!
 
 ## About Foam
 
@@ -46,4 +46,3 @@ Here they are:
 - [vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image)
 
 A special mention goes to [Markdown Links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links) and [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes) which have now been replaced by our own implementation but were foundational to Foam's beginnings.
-
